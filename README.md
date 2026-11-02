@@ -12,7 +12,12 @@ This is my yearly school project at AKG Hungary (www.akg.hu). The goal is to des
 
 The main idea is accessibility. Instead of expensive custom actuators or hard-to-find parts, the arm uses common NEMA stepper motors and as many 3D printed parts as possible, so that other makers can reproduce it.
 
-The project is also an application to the Bambu Lab "Let's Make It Fund".
+SPONSORS
+
+Motors sponsored by StepperOnline (OMC-StepperOnline)
+https://www.omc-stepperonline.com
+
+Thank you to StepperOnline for supporting this project with the stepper motors for the arm.
 
 
 SPECIFICATIONS (TARGET)
