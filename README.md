@@ -81,12 +81,8 @@ Development and simulation will happen in MATLAB and Simulink.
 
 REPOSITORY CONTENTS (PLANNED)
 
-cad - CAD models and STL files
-
-electronics - KiCad schematics and PCB files
-
-firmware - Microcontroller and Raspberry Pi code
-
-software - Kinematics and control code, MATLAB/Simulink models
-
-docs - Build notes, images and renders
+- cad - CAD models and STL files
+- electronics - KiCad schematics and PCB files
+- firmware - Microcontroller and Raspberry Pi code
+- software - Kinematics and control code, MATLAB/Simulink models
+- docs - Build notes, images and renders
